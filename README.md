@@ -1,5 +1,5 @@
 ## open-im-server
-open-im-server v3.6版本，支持单独编译和启动服务
+在open-im-server v3.6版本基本上做了些脚本的调整，使其支持单独编译和启动服务
 
 指定编译：
 ```
