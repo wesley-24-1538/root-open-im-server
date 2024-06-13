@@ -15,3 +15,6 @@ make start `specificServers="openim-api openim-crontask"`
 make stop
 ```
 目前停止服务不支持指定服务，只能全部停止
+
+调整的相关文件：
+![image](https://github.com/wesley-24-1538/root-open-im-server/assets/169232774/e5e89586-309f-4a42-b2a5-e5e11dd7d9a7)
