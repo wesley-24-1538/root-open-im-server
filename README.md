@@ -5,7 +5,7 @@
 ```
 make build BINS=`"openim-api openim-crontask"
 ```
-指定开始
+指定某些服务
 
 ```
 make start `specificServers="openim-api openim-crontask"`
