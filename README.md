@@ -8,8 +8,11 @@ make build BINS=`"openim-api openim-crontask"
 ````
 
 指定开始
+```
 make start `specificServers="openim-api openim-crontask"`
-
+```
 停止服务
-
+```
+make stop
+```
 目前停止服务不支持指定服务，只能全部停止
