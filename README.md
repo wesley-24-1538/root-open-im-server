@@ -5,7 +5,7 @@
 ```
 make build BINS=`"openim-api openim-crontask"
 ```
-指定某些服务
+指定某些服务（其实官方自带这个单独编译功能也够用，后台启动服务、停止服务都可以不指定某服务，只是可能会有部分报错，但不影响功能）
 
 ```
 make start `specificServers="openim-api openim-crontask"`
